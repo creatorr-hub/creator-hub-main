@@ -1,0 +1,35 @@
+{
+  "name": "creator-hub",
+  "version": "0.1.0",
+  "description": "Decentralized platform for hiring and rewarding creators on Stellar blockchain",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "install-all": "npm install && cd frontend && npm install && cd ../backend && npm install && cd ../contracts && cargo build",
+    "dev": "concurrently 'npm run dev -w frontend' 'npm run dev -w backend'",
+    "build": "npm run build -w frontend && npm run build -w backend",
+    "lint": "npm run lint -w frontend && npm run lint -w backend",
+    "format": "npm run format -w frontend && npm run format -w backend && cargo fmt",
+    "test": "npm run test -w frontend && npm run test -w backend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OWNER/creator-hub.git"
+  },
+  "keywords": [
+    "stellar",
+    "blockchain",
+    "creator",
+    "economy",
+    "decentralized",
+    "web3"
+  ],
+  "author": "",
+  "license": "MIT"
+}

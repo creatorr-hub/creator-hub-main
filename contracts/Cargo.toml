@@ -1,0 +1,13 @@
+[package]
+name = "creator-hub-contract"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+soroban-sdk = "20.0"
+soroban-token-sdk = "20.0"
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
