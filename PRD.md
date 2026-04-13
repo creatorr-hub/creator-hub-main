@@ -2,7 +2,7 @@
 ## Creator Hub - Stellar Blockchain Platform
 
 ### Document Version
-- Version: 1.0
+- Version: 2.0
 - Date: April 2026
 - Status: Active
 

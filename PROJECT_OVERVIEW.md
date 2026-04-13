@@ -1,12 +1,12 @@
 # Creator Hub - Project Overview
 
-## 🎯 Vision
+## Vision
 
 Creator Hub is a decentralized platform on the Stellar blockchain that enables projects and organizations to post creative tasks and instantly reward creators with XLM or USDC, removing intermediaries and enabling frictionless global collaboration.
 
 ---
 
-## 📊 Project Structure
+##  Project Structure
 
 ```
 creator-hub/
@@ -17,7 +17,7 @@ creator-hub/
 │  ├── ARCHITECTURE.md           # System design
 │  └── CONTRIBUTING.md           # Contribution guidelines
 │
-├── 🎨 Frontend (React)
+├──  Frontend (React)
 │  ├── src/
 │  │  ├── pages/Landing.tsx     # Landing page with wallet integration
 │  │  ├── components/           # Reusable UI components
@@ -39,7 +39,7 @@ creator-hub/
 │  ├── .env.example
 │  └── README.md
 │
-├── 📡 Smart Contracts (Rust/Soroban)
+├── Smart Contracts (Rust/Soroban)
 │  ├── src/lib.rs               # Contract implementation
 │  ├── Cargo.toml               # Rust dependencies
 │  ├── stellar-cli-config.toml
@@ -51,7 +51,7 @@ creator-hub/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -207,7 +207,7 @@ stellar contract build
 
 ---
 
-## 📈 Success Metrics (6-month targets)
+##  Success Metrics (6-month targets)
 
 - 500+ active creators
 - 100+ active projects
@@ -217,7 +217,7 @@ stellar contract build
 
 ---
 
-## 🌐 Network & Deployment
+##  Network & Deployment
 
 ### Testnet (Current)
 - Frontend: Local dev server
@@ -233,7 +233,7 @@ stellar contract build
 
 ---
 
-## 📚 Key Files & Their Purpose
+##  Key Files & Their Purpose
 
 | File | Purpose |
 |------|---------|
@@ -249,7 +249,7 @@ stellar contract build
 
 ---
 
-## 🔗 Important Links
+## Important Links
 
 - **Stellar Docs**: https://developers.stellar.org
 - **Soroban SDK**: https://soroban.stellar.org
@@ -259,7 +259,7 @@ stellar contract build
 
 ---
 
-## 👥 Team Roles (To be Filled)
+## Team Roles (To be Filled)
 
 - **Product Manager**: Define features and priorities
 - **Backend Lead**: Oversee API development
@@ -270,7 +270,7 @@ stellar contract build
 
 ---
 
-## 📞 Communication
+##  Communication
 
 - **Issues**: GitHub Issues
 - **Discussions**: GitHub Discussions
@@ -280,13 +280,13 @@ stellar contract build
 
 ---
 
-## 📄 License
+## License
 
 Open Source - [Choose License - Suggested: MIT or Apache 2.0]
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Stellar Foundation for blockchain infrastructure
 - Freighter team for wallet SDK

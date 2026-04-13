@@ -2,11 +2,11 @@
 
 A decentralized platform enabling projects to hire and reward creators using the Stellar blockchain (XLM/USDC).
 
-## 🌟 Overview
+##  Overview
 
 Creator Hub democratizes talent acquisition and compensation by leveraging blockchain technology. Projects list tasks, creators submit solutions, and winners receive instant payments in XLM or USDC on the Stellar network.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 creator-hub/
@@ -20,7 +20,7 @@ creator-hub/
 └── README.md             # This file
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -50,7 +50,7 @@ cd contracts
 stellar contract build
 ```
 
-## 📋 Features (Roadmap)
+##  Features (Roadmap)
 
 - [ ] Landing page with wallet connection
 - [ ] Project dashboard
@@ -60,7 +60,7 @@ stellar contract build
 - [ ] Admin panel
 - [ ] Rating/review system
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - React/Astro
@@ -76,7 +76,7 @@ stellar contract build
 - Soroban (Rust)
 - Stellar Testnet
 
-## 🤝 Contributing
+##  Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on:
 - Code standards
@@ -84,14 +84,14 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on:
 - Pull request process
 - Issue reporting
 
-## 📄 Documentation
+##  Documentation
 
 - [PRD.md](./PRD.md) - Detailed product requirements
 - [ARCHITECTURE.md](./ARCHITECTURE.md) - System design & architecture
 - [API.md](./docs/API.md) - Backend API documentation (coming soon)
 
 
-## 💬 Community
+##  Community
 
 - **Issues**: GitHub Issues
 - **Discussions**: GitHub Discussions
@@ -99,4 +99,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on:
 
 ---
 
-**🌐 Live on Stellar Testnet** - Start building the future of creator economy!
+**Live on Stellar Testnet** - Start building the future of creator economy!
